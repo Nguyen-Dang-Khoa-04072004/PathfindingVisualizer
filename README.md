@@ -1,6 +1,6 @@
 # PathfindingVisualizer - Visualize and Understand A* Algorithms in Action
 
-Pathfinding Visualizer is an interactive tool that demonstrates how pathfinding algorithms like Dijkstra's, A*, BFS, and DFS work. Users can set a start and end point, place obstacles on a grid, and visually observe how different algorithms explore and find the shortest path.
+Pathfinding Visualizer is an interactive tool that demonstrates how A* algorithms work. Users can set a start and end point, place obstacles on a grid, and visually observe how the algorithm explore and find the shortest path.
 
 ## Install 
 
