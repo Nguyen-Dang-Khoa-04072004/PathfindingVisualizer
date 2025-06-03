@@ -2,7 +2,7 @@
 
 Pathfinding Visualizer is an interactive tool that demonstrates how A* algorithms work. Users can set a start and end point, place obstacles on a grid, and visually observe how the algorithm explore and find the shortest path.
 
-## Install 
+## Installation 
 
 1. Clone the repo
   ```bash
